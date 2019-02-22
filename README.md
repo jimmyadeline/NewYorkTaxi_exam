@@ -5,10 +5,9 @@
 ### Steps: 
 
 1. Clean data:
-        Drop zeros in Trip distance and Total amount.
-        Drop outliers in features used in the work.
-
-2. Use the pickup_datetime & dropoff_datetime, generate trip_time for each trip.
+     - Drop zeros in Trip distance and Total amount.
+     - Drop outliers in features used in the work.
+     - Use the pickup_datetime & dropoff_datetime, generate trip_time for each trip.
 
 3. Define Matrix as Price per mile and Price per minute to evaluate the performance.
 
