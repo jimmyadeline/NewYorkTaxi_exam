@@ -13,5 +13,6 @@
 
 4. Use T-test to test the difference between Company 1 and Company 2
 
-5. Use Regressions to identify whether Company 2 is significantly from Company 1 in the defined features.
+5. Use linear regressions to identify whether Company 2 is significantly from Company 1 in the defined features.
 
+6. Conclusions & Concerns
